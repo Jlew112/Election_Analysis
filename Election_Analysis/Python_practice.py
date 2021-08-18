@@ -37,8 +37,8 @@ counties = ["Arapahoe", "Denver", "Jefferson"]
 
 #for county in counties_dict:
     #print(counties_dict[county])
-#for county, voters in counties_dict.items():
-    #print(f"{county} county has {voters} registered voters.")
+for county, voters in counties_dict.items():
+    print(f"{county} county has {voters} registered voters.")
 
 #for county_dict in voting_data:
     #for value in county_dict.values():
