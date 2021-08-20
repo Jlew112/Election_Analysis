@@ -25,6 +25,11 @@ Upon completing the audit, we find that:
   - Winning Vote Count: 272,892
   - Winning Vote Percentage: 73.8%
 
-## Callenge Overview
-
+## Challenge Overview
+In the challenge, we set out to find the county voting numbers using the refactored code from the candidate summary. We needed to find the vote numbers from all 3 counties, as well as the largest voting county.
 ## Challenge Summary
+County numbers are as follows:
+- Jefferson county had 38855 votes
+- Denver County had 306055 votes
+- Arapahoe County had 24801 votes
+The largest county was Denver with 83% of the votes
